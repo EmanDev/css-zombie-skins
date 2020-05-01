@@ -33,7 +33,7 @@ Default Usage:
 3. Configure zombies.txt in cstrike/addons/sourcemod/configs/zombies.txt using the following format below (Code A). Put it inside the wrapper (Code B). But always give proper indention and spacing to sort it out properly if you are planning to add more skins.
 
 ```
-// Code A
+// Code A - Follow Default Value!
 
 "zombie4"
 	{
