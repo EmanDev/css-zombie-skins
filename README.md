@@ -1,5 +1,5 @@
 # Counter-Strike: Source Zombie Skins
-A compilation of configured zombie skins for zombie riot and zombie mod of Counter-Strike: Source. This is to replace default zombie skin settings but instead of replacing everything, some skins that are corrupted have been removed, some skins are added, and some remained as is.
+A compilation of configured zombie skins for zombie riot of Counter-Strike: Source. This is to replace default zombie skin settings but instead of replacing everything, some skins that are corrupted have been removed, some skins are added, and some remained as is.
 
 ## Skins Included
 
@@ -14,6 +14,10 @@ A compilation of configured zombie skins for zombie riot and zombie mod of Count
    5. Spawn
    6. Theron Guard
    7. Titan
+
+## Updates and Releases
+
+No **UPDATES** and **RELEASES** yet. Always check this section before downloading the files here.
 
 ## Request
 
