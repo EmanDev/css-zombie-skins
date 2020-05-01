@@ -43,9 +43,9 @@ Default Usage:
 		"gravity"	"0.9"
 		"jump"		"17.0"
 		"fov"		"110"
-	}`
+	}``
 
-`// Code B
+``// Code B
 
 "zombies"
 	{
@@ -60,7 +60,7 @@ Default Usage:
 
 ​		// You can put Code A here
 
-​	}`
+​	}``
 
 ## Customization
 
