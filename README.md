@@ -3,10 +3,15 @@ A compilation of configured zombie skins for zombie riot of Counter-Strike: Sour
 
 ## Skins Included
 
-1. [CF Mutant/Hulk Zombie (Big and Small Version)](https://gamebanana.com/skins/download/135208)
-2. [HL2 Zombie Package](https://gamebanana.com/skins/114533)
-3. [Yeti](https://gamebanana.com/skins/137296)
-4. [S-Low Zombie Boss Package](https://www.moddb.com/mods/zombie-riot/downloads/boss-pack)
+1. Default Skins (included in the mod itself)
+   1. Hellknight - Updated due to skin errors
+   2. Zombie Charple
+   3. Zombie Corpse
+   4. Zombie (Default)
+2. [CF Mutant/Hulk Zombie (Big and Small Version)](https://gamebanana.com/skins/download/135208)
+3. [HL2 Zombie Package](https://gamebanana.com/skins/114533)
+4. [Yeti](https://gamebanana.com/skins/137296)
+5. [S-Low Zombie Boss Package](https://www.moddb.com/mods/zombie-riot/downloads/boss-pack)
    1. Berserk
    2. Centurion
    3. Hunter
@@ -14,6 +19,7 @@ A compilation of configured zombie skins for zombie riot of Counter-Strike: Sour
    5. Spawn
    6. Theron Guard
    7. Titan
+6. More...
 
 ## Updates and Releases
 
